@@ -1,2 +1,0 @@
-# latihan
-tugas program web
